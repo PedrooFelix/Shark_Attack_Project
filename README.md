@@ -12,4 +12,4 @@ Prezi <a>https://prezi.com/view/1ip4YLe89PS9NibBMrot/</a>
 The dataset:
 DataSet <a>https://www.kaggle.com/teajay/global-shark-attacks</a>
 
-The Recommendations about the fields
+The Recommendations about the fields: <a>http://www.sharkattackfile.net/recommendations.htm</a>
