@@ -1,3 +1,0 @@
-<h1> Data Cleaning Project</h1>
-
-##Shark Attack Project
