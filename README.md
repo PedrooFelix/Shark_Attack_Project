@@ -1,6 +1,6 @@
 # Shark Attack Project
 
-CLEANING DATA WITH PYTHON, PANDAS, SEABORN, MATPLOTLIB.
+CLEANING DATA, PYTHON, PANDAS, SEABORN, MATPLOTLIB.
 
 Project made to train some skills learned in class:
 
