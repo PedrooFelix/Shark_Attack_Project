@@ -10,19 +10,19 @@ Project made to train some skills learned in class:
 
 ## Data Cleaning
 
-1- Dropping nonsense structures.
-2- Using Regex to Filter data.
-3- Do a Unique question, and answer it with the data.
+- Dropping nonsense structures.
+- Using Regex to Filter data.
+- Do a Unique question, and answer it with the data.
 
 ## Pipeline Followed in Jupyter notebook:
 
-1- Importing Libraries
-2- Reading the file
-3- Transforming the values to work with them
-4- Cleaning some columns
-5- The first thought: I was thinking that the most provoked sharks were the most who killed, but it isn't here is the analysis to conclude this.
-6- The thesis: what is the riskiest activity 
-7- Conclusion 
+- Importing Libraries
+- Reading the file
+- Transforming the values to work with them
+- Cleaning some columns
+- The first thought: I was thinking that the most provoked sharks were the most who killed, but it isn't here is the analysis to conclude this.
+- The thesis: what is the riskiest activity 
+- Conclusion 
 
 ## Conclusion 
 
