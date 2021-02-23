@@ -20,6 +20,7 @@ Project made to train some skills learned in class:
 - Reading the file
 - Transforming the values to work with them
 - Cleaning some columns
+- Saving to csv
 - The first thought: I was thinking that the most provoked sharks were the most who killed, but it isn't here is the analysis to conclude this.
 - The thesis: what is the riskiest activity 
 - Conclusion 
