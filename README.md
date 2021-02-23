@@ -26,6 +26,15 @@ Project made to train some skills learned in class:
 
 ## Conclusion 
 
+From 1423 attacks, we can see in the following bar charts
+<img src="https://i.imgur.com/x3PNzUq.png">
+
+
+We can see that the Surfing is the most attacked activitie followed by Swimming, Spearfishing, Wading and fishing
+
+<img src="https://i.imgur.com/34itpMk.png">
+
+Analysing the data, Swimming is the riskiests activity, followed by Surfimg, Spearfishing and Wading. When people was fishing, we see there isn't any death.
 
 ## Resources:
 
